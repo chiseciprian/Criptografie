@@ -1,0 +1,14 @@
+D:\Faculta\ANUL 2\Criptografie\DES\DES\bin\Debug\DES.exe.config
+D:\Faculta\ANUL 2\Criptografie\DES\DES\bin\Debug\DES.exe
+D:\Faculta\ANUL 2\Criptografie\DES\DES\bin\Debug\DES.pdb
+D:\Faculta\ANUL 2\Criptografie\DES\DES\obj\Debug\DES.csprojAssemblyReference.cache
+D:\Faculta\ANUL 2\Criptografie\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+D:\Faculta\ANUL 2\Criptografie\DES\DES\obj\Debug\DES.exe
+D:\Faculta\ANUL 2\Criptografie\DES\DES\obj\Debug\DES.pdb
+C:\Users\Cipri\Desktop\DES\DES\bin\Debug\DES.exe.config
+C:\Users\Cipri\Desktop\DES\DES\bin\Debug\DES.exe
+C:\Users\Cipri\Desktop\DES\DES\bin\Debug\DES.pdb
+C:\Users\Cipri\Desktop\DES\DES\obj\Debug\DES.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\DES\DES\obj\Debug\DES.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\DES\DES\obj\Debug\DES.exe
+C:\Users\Cipri\Desktop\DES\DES\obj\Debug\DES.pdb
