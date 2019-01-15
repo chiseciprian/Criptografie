@@ -1,0 +1,7 @@
+D:\Oros\programcriptareincercare\programcriptareincercare\bin\Debug\programcriptareincercare.exe.config
+D:\Oros\programcriptareincercare\programcriptareincercare\bin\Debug\programcriptareincercare.exe
+D:\Oros\programcriptareincercare\programcriptareincercare\bin\Debug\programcriptareincercare.pdb
+D:\Oros\programcriptareincercare\programcriptareincercare\obj\Debug\programcriptareincercare.csprojAssemblyReference.cache
+D:\Oros\programcriptareincercare\programcriptareincercare\obj\Debug\programcriptareincercare.csproj.CoreCompileInputs.cache
+D:\Oros\programcriptareincercare\programcriptareincercare\obj\Debug\programcriptareincercare.exe
+D:\Oros\programcriptareincercare\programcriptareincercare\obj\Debug\programcriptareincercare.pdb
