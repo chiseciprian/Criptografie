@@ -1,0 +1,7 @@
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\Cipri\Desktop\criptografie\RSA\RSA\obj\Debug\RSA.pdb
